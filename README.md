@@ -16,7 +16,11 @@ You can review some of the resources I used in this project from these links :
 First, download the project to your computer.
 For this, you can click on the button that says "Code" above and say "Download Archive".
 Or
-You can type git clone benahmetcelik/projce-name and download
+You can type  
+
+`git clone https://github.com/benahmetcelik/menote-laravel-simple-note-app.git`
+
+and download
 
 
 ## Edit Your .env File For Database Connection
@@ -61,7 +65,7 @@ The MeNote Project is open-sourced software licensed under the [MIT license](htt
 <p align="center"><a href="https://www.buymeacoffee.com/benahmetcelik"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="benahmetcelik" /></a></p><br><br>
 
 
-
+<h3 align="center">Screenshots:</h3>
 <img src="https://raw.githubusercontent.com/benahmetcelik/menote-laravel-simple-note-app/main/images/home.PNG">
 <img src="https://raw.githubusercontent.com/benahmetcelik/menote-laravel-simple-note-app/main/images/save_button.PNG">
 <img src="https://raw.githubusercontent.com/benahmetcelik/menote-laravel-simple-note-app/main/images/create.PNG">
