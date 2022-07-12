@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://github.com/benahmetcelik/menote-laravel-simple-note-app" target="_blank"><img src="https://raw.githubusercontent.com/benahmetcelik/menote-laravel-simple-note-app/main/images/home.PNG" width="400"></a></p>
 
 
 ## What Does This Software Do?
@@ -62,4 +62,9 @@ The MeNote Project is open-sourced software licensed under the [MIT license](htt
 
 
 
-<img src="">
+<img src="https://raw.githubusercontent.com/benahmetcelik/menote-laravel-simple-note-app/main/images/home.PNG">
+<img src="https://raw.githubusercontent.com/benahmetcelik/menote-laravel-simple-note-app/main/images/save_button.PNG">
+<img src="https://raw.githubusercontent.com/benahmetcelik/menote-laravel-simple-note-app/main/images/create.PNG">
+<img src="https://raw.githubusercontent.com/benahmetcelik/menote-laravel-simple-note-app/main/images/first_note.PNG">
+<img src="https://raw.githubusercontent.com/benahmetcelik/menote-laravel-simple-note-app/main/images/note.PNG">
+<img src="https://raw.githubusercontent.com/benahmetcelik/menote-laravel-simple-note-app/main/images/note_share.PNG">
