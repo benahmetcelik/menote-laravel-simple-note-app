@@ -23,6 +23,13 @@ You can type
 and download
 
 
+## Composer Install And Update
+
+`composer install`
+
+`composer update`
+
+
 ## Edit Your .env File For Database Connection
 
 First, open your .env file in project dir.
